@@ -1,0 +1,26 @@
+body,div{
+    display: flex;
+flex-direction:column;
+align-items:center;
+}
+div{
+    width:50vw;
+}
+.sky{
+    width: 150px
+}
+.line{
+    background-color:rgba(255, 255, 0, 0.452);
+}
+.top{
+    color:darkgray;
+}
+.leader{
+    color:red;
+}
+.nice{
+    color:rgb(0, 106, 255);
+}
+.clide{
+    color: blue;
+}
