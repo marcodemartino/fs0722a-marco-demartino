@@ -1,0 +1,35 @@
+body,div,nav,main{
+    
+     
+    
+}
+ .bottone{
+  background-color: darkorange;
+  color: aliceblue;
+  
+ }
+ .sfondocentrale{
+    background-color: darkorange;
+    color: aliceblue;
+   
+    border: 15px solid green;
+
+    border:0px
+}
+.operazione{
+    
+}
+.titolo{
+    color: deepskyblue;
+}
+h3{
+    color: deepskyblue;
+}
+.dentroparentesi{
+    font-family: 'Quicksand', sans-serif;
+}
+.black{
+    background-color: black ;
+    align-content:center;
+    
+}

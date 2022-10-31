@@ -1,0 +1,42 @@
+.titolo{
+    color: #1a7ee2;
+}
+.div1{
+    background-image: url(banner.jpg);
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#bottone{
+    background-color: darkorange;
+    color: lavenderblush;
+    
+}
+#logo{
+  background-color: black;
+}
+.paragrafo1{
+    text-align: center;
+}
+.rotondo{
+    border-radius: 100px;
+    height: 200px;
+}
+.love{
+    background-color: red;
+    text-align: center;
+    color: aliceblue;
+}
+.fotopc{
+    height: 250px;
+}
+.paragrafo3{
+    text-align: center;
+    color: aliceblue;
+    background-color: cornflowerblue;
+}
+#primo{
+   
+
+
+}
